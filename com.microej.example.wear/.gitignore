@@ -1,0 +1,8 @@
+target~
+bin
+src-adpgenerated
+wifi
+com.microej.example.wear.*
+launch/*.properties
+.scannerwork
+.settings/org.sonarlint.eclipse.core.prefs

@@ -1,0 +1,21 @@
+# Copyright 2022 MicroEJ Corp. All rights reserved._  
+# Use of this source code is governed by a BSD-style license that can be found with this software.
+
+# Watchface
+/images/watchface/background.png:RGB565
+/images/watchface/hour.png:ARGB8888
+/images/watchface/minute.png:ARGB8888
+/images/watchface/second.png:ARGB8888
+
+# List
+/images/list/ic_about.png:RGB565
+/images/list/ic_activity.png:RGB565
+/images/list/ic_calendar.png:RGB565
+/images/list/ic_compass.png:RGB565
+/images/list/ic_gps.png:RGB565
+/images/list/ic_heartrate.png:RGB565
+/images/list/ic_light.png:RGB565
+/images/list/ic_message.png:RGB565
+/images/list/ic_music.png:RGB565
+/images/list/ic_parameters.png:RGB565
+/images/list/ic_twitter.png:RGB565
