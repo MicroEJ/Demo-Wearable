@@ -5,9 +5,9 @@
  * Check documentation and example values on https://docs.cross/process/jenkins.html to fill this template
  */
 buildWithMMM{
-	MODULE_DIR = 'com.microej.example.wear'				// The name of the project into which your MODULE_FILENAME is. Default value is : "" . So leave blank if your MODULE_FILENAME is in the root of your gitlab project.
+	//MODULE_DIR = ''				// The name of the project into which your MODULE_FILENAME is. Default value is : "" . So leave blank if your MODULE_FILENAME is in the root of your gitlab project.
 	//MODULE_FILENAME= ''			// The module filename. Default value is : module.ivy. Set it if yours is different.
-	LABEL = 'iar-8.50.6'					// The label where build must be run. Default value is : docker if in docker build or generic. Set it if yours is different.
+	LABEL = 'iar-8.50.6'			// The label where build must be run. Default value is : docker if in docker build or generic. Set it if yours is different.
 	//DOCKER_IMAGE = ''				// The image used to execute the build. Default value is : microej/sdk:$MMM_VERSION. If empty (set to '') the build is executed without Docker (so directly on the Jenkins node).
 
 	//MMM_VERSION = ''				// The version of MMM to use. Default value is 5.5.0.
